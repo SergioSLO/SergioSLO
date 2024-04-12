@@ -1,5 +1,9 @@
-### Hi there 👋
+### Holaa 👋
+Soy Sergio Lezama, estudiante de ciencias de la computación en UTEC :D
 
+$$
+\frac{15}{12}
+$$
 <!--
 **SergioSLO/SergioSLO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
